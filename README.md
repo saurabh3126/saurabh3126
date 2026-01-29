@@ -21,19 +21,15 @@ const description = {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&theme=shadow_red&show_icons=true&hide_border=false" alt="Saurabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true&cache_buster=1" alt="Saurabh's GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=shadow_red" alt="Saurabh's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=shadow_red&cache_buster=1" alt="Saurabh's Streak" />
 </p>
 
-
-### 🏆 GitHub Trophies API
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabh3126&theme=apprentice&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabh3126&theme=apprentice&no-frame=true&margin-w=4&cache_buster=1" alt="Trophies" />
 </p>
-
----
-<p align="center"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark'/></p>
 
 <div align="center">
      <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
