@@ -21,10 +21,11 @@ const description = {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&theme=shadow_red&show_icons=true&include_all_commits=true&count_private=true" alt="Saurabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&theme=shadow_red&show_icons=true&hide_border=false" alt="Saurabh's GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=shadow_red" alt="Saurabh's Streak" />
 </p>
+
 
 ### 🏆 GitHub Trophies API
 <p align="center">
