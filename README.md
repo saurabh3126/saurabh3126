@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Optimizing complex algorithms and building a full-stack Gym Supplement e-commerce site.<br>👯 I’m looking to collaborate on Competitive programming challenges or open-source projects involving efficient data management.<br>🤝 I’m looking for help with Advanced System Design and large-scale deployment of MERN applications.<br>🌱 I’m currently learning Advanced Data Structures, Algorithm Analysis, and the MERN stack (React, Node.js).<br>💬 Ask me about  C++, DSA (Arrays, Linked Lists, Stacks, Queues, Trees, Hashing), and Full-stack Web Development.
+🔭 <b>I’m currently working  </b>on Optimizing complex algorithms and building a full-stack Gym Supplement e-commerce site.<br>👯 <b>I’m looking to collaborate </b> on Competitive programming challenges or open-source projects involving efficient data management.<br>🤝 <b> I’m looking for help with </b> Advanced System Design and large-scale deployment of MERN applications.<br>🌱<b> I’m currently learning </b>Advanced Data Structures, Algorithm Analysis, and the MERN stack (React, Node.js).<br>💬 <b>Ask me about </b> C++, DSA (Arrays, Linked Lists, Stacks, Queues, Trees, Hashing), and Full-stack Web Development.
 
 
 ## 🌐 Socials:
