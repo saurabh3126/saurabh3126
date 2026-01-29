@@ -34,7 +34,7 @@
 <summary>🔥 Github Stats</summary>
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&show_icons=true&theme=tokyonight&count_private=true&cache_buster=jan29" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&show_icons=true&theme=tokyonight&count_private=true&cache_buster=1" width="450" />
 </p>
 </details>
 
@@ -42,7 +42,7 @@
 <summary>🚀 Github Streaks</summary>
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=tokyonight&cache_buster=jan29" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=tokyonight&cache_buster=1" width="450" />
 </p>
 </details>
 
