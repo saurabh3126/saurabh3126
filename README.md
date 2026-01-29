@@ -19,12 +19,17 @@ const description = {
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ashesbloom&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashesbloom&theme=shadow_red&hide_border=false)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&theme=shadow_red&show_icons=true&include_all_commits=true&count_private=true" alt="Saurabh's GitHub Stats" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashesbloom&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=shadow_red" alt="Saurabh's Streak" />
+</p>
+
+### 🏆 GitHub Trophies API
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabh3126&theme=apprentice&no-frame=true" alt="Trophies" />
+</p>
 
 ---
 <p align="center"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark'/></p>
