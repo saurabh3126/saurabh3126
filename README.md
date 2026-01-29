@@ -1,53 +1,68 @@
+# ⚡ Saurabh | Full-Stack Developer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-3rd_Year_CSE_@_LPU-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-MERN_Stack_Expert-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/-GSoC_2026_Aspirant-orange?style=flat-square" />
+</p>
+
+---
+
+### 👨‍💻 Talking about Personal Stuff:
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzB6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+* 🚀 I’m currently working with **JS, TS, Node.js, and C++**.
+* 🧠 I’m currently exploring **DSA and MERN stack** deep-dives.
+* 🛒 Building a **Gym Supplement Store** e-commerce platform.
+* 📊 Created an **SPI Analyzer** tool for academic tracking.
+* 📫 Reach me out: **saurabh@example.com**
+
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Projects and Dev Stuffs:
+
+<details>
+<summary>🔥 Github Stats</summary>
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+</p>
+</details>
+
+<details>
+<summary>🚀 Github Streaks</summary>
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=tokyonight" width="400" />
+</p>
+</details>
+
+<details>
+<summary>✨ Top Languages</summary>
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh3126&layout=compact&theme=tokyonight" width="400" />
+</p>
+</details>
+
+---
+
+### 🏆 Achievements & Badges
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabh3126&theme=tokyonight&no-frame=true" width="100%" />
+</p>
+
 <div align="center">
-  <h1>Hi, I'm Saurabh 👋</h1>
-  <p><strong>Full-Stack Developer | B.Tech CSE Student @ LPU | GSoC '26 Aspirant</strong></p>
-
-  <img src="https://img.shields.io/badge/MERN-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</div>
-
----
-
-### ⚡ About Me
-- 🎓 **Identity:** Currently a 3rd-year B.Tech CSE student at Lovely Professional University.
-- 🛠️ **Major Project:** Building a full-stack **Gym Supplement E-commerce** platform using the MERN stack.
-- 📊 **Academic Tooling:** Developed an **SPI Analyzer** for LPU students to track performance index.
-- 🧠 **Learning:** Deep diving into **Data Structures & Algorithms** (C++) for GSoC 2026 prep.
-
----
-
-### 🛠️ Tech Stack & Skillset
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | React, Redux, JavaScript, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, JWT |
-| **Database** | MongoDB, MySQL |
-| **Cloud/DevOps** | AWS, Vercel, Docker |
-
----
-
-### 📈 Current Activity & Stats
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&theme=tokyonight&show_icons=true&count_private=true" width="100%" />
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh3126&theme=tokyonight&layout=compact" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🤝 Let's Connect
-- 📧 **Email:** [saurabh@example.com](mailto:saurabh@example.com)
-- 💼 **LinkedIn:** [linkedin.com/in/saurabh3126](https://linkedin.com/in/saurabh3126)
-- 🌐 **Portfolio:** [saurabh3126.github.io](https://saurabh3126.github.io/)
-
-<div align="center">
-  <img src="https://profile-counter.deno.dev/saurabh3126/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.deno.dev/saurabh3126/count.svg" alt="Saurabh's Profile Views" />
 </div>
