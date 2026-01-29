@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Saurabh Goswami]! 👋
 
 ### 🚀 3rd Year B.Tech CSE Student @ LPU
 I’m a passionate Full-Stack Developer and competitive programmer who loves building scalable web applications and solving complex algorithmic problems.
@@ -32,9 +32,9 @@ I’m a passionate Full-Stack Developer and competitive programmer who loves bui
 
 ## 📫 How to reach me:
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** your.email@example.com
-* **Portfolio:** [Link to your portfolio site]
+* **LinkedIn:** [www.linkedin.com/in/saurabh316](https://linkedin.com/in/saurabh316)
+* **Email:** saurabh239goswami@gmail.com
+* **Portfolio:** [https://saurabh-portfolio-teal.vercel.app/]
 
 ---
 
