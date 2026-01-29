@@ -22,11 +22,8 @@ const description = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&theme=shadow_red&show_icons=true&include_all_commits=true&count_private=true" alt="Saurabh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=shadow_red" alt="Saurabh's Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabh3126&theme=apprentice&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=shadow_red" alt="Saurabh's Streak" />
 </p>
 
 ### 🏆 GitHub Trophies API
