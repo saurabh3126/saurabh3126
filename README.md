@@ -1,53 +1,37 @@
-# ⚡ Saurabh | Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Saurabh Goswami</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh3126&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh3126" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh3126" alt="saurabh3126" /></a> </p>
+
+- 🔭 I’m currently working on **Optimizing complex algorithms and building a full-stack Gym Supplement e-commerce site.**
+
+- 🌱 I’m currently learning **Advanced Data Structures, Algorithm Analysis, and the MERN stack (React, Node.js).**
+
+- 👯 I’m looking to collaborate on **Competitive programming challenges or open-source projects involving efficient data management.**
+
+- 🤝 I’m looking for help with **Advanced System Design and large-scale deployment of MERN applications.**
+
+- 👨‍💻 All of my projects are available at [saurabh-portfolio-teal.vercel.app/](saurabh-portfolio-teal.vercel.app/)
+
+- 💬 Ask me about **C++, DSA (Arrays, Linked Lists, Stacks, Queues, Trees, Hashing), and Full-stack Web Development.**
+
+- 📫 How to reach me **saurabh239goswami@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/15NMS06JMnwZQXodyQYcKHf0PM3b1RSut/view?usp=drive_link](https://drive.google.com/file/d/15NMS06JMnwZQXodyQYcKHf0PM3b1RSut/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-3rd_Year_CSE_@_LPU-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-MERN_Stack_Expert-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-GSoC_2026_Aspirant-orange?style=flat-square" />
+<a href="https://linkedin.com/in/saurabh316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh316" height="30" width="40" /></a>
+<a href="https://instagram.com/_saurabh._.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saurabh._.r" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 👨‍💻 Talking about Personal Stuff:
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzB6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh3126&show_icons=true&locale=en&layout=compact" alt="saurabh3126" /></p>
 
-* 🚀 I’m currently working with **JS, TS, Node.js, and C++**.
-* 🧠 I’m currently exploring **DSA and MERN stack**.
-* 🛒 Building a **Gym Supplement Store** e-commerce platform.
-* 📊 Created an **SPI Analyzer** tool for academic tracking.
-* 📫 Reach me out: **saurabh@example.com**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh3126&show_icons=true&locale=en" alt="saurabh3126" /></p>
 
-### 🛠 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
-
----
-
-### 📊 Projects and Dev Stuffs:
-
-<details>
-<summary>🔥 Github Stats</summary>
-<br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh3126&show_icons=true&theme=tokyonight&count_private=true&cache_buster=1" width="450" />
-</p>
-</details>
-
-<details>
-<summary>🚀 Github Streaks</summary>
-<br />
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&theme=tokyonight&cache_buster=1" width="450" />
-</p>
-</details>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.deno.dev/saurabh3126/count.svg" alt="Visitor Count" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh3126&" alt="saurabh3126" /></p>
